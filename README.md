@@ -1,6 +1,6 @@
 # Reproduction of error in trash in Next.js
 
-Example works by attempting to delete a file called 'file-to-delete.txt' in the app folder.
+Example works by attempting to send a file called 'file-to-delete.txt' to trash.
 
 ## Prequisites:
 
